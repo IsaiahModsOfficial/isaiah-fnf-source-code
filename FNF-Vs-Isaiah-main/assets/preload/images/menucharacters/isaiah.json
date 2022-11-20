@@ -1,0 +1,11 @@
+{
+	
+	"image": "Menu_Isaiah",
+	"position": [
+		0,
+		0
+	],
+	"scale": 1,
+	"idle_anim": "M Isaiah Idle",
+	"confirm_anim": "M Isaiah Idle"
+}

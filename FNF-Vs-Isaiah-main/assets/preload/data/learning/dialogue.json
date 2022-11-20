@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "isaiah",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wow! That's amazing!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "isaiah",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That was fun wasn't it?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "isaiah",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "A-another rap battle?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "isaiah",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok, I guess another rap battle wouldn't hurt..."
+		}
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"TBA",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": true,
+	"weekBackground": "comingsoon",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Coming Soon...",
+	"weekName": "Coming Soon...",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week8",
+	"startUnlocked": false
+}

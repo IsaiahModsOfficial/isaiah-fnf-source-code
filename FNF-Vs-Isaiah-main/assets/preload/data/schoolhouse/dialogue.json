@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "isaiah",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh! Hi- Huh?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep!"
+		},
+		{
+			"speed": 0.075,
+			"portrait": "isaiah",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Uh, hi?! Who are you 2?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bop bap skap pob bopap."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "This is my boyfriend."
+		},
+		{
+			"speed": 0.21,
+			"portrait": "isaiah",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Huh..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "isaiah",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You might be new students applying for this school right?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Boop."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No, were not students, I am his girlfriend."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "isaiah",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok, if you 2 aren't students, then what are you here for?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep bop boop poskop posbakp booskpeep."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "He said he wanted a rap battle with you."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "isaiah",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "A rap battle? I hadn't done that before. I try to give it a go. Are you ready!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Boop!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "isaiah",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Whatever that means, you bet I am ready!"
+		}
+	]
+}

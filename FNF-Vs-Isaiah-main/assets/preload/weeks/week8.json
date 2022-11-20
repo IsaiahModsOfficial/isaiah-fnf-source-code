@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"Scientific",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Confused",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Beaker",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": true,
+	"weekBackground": "laboratory",
+	"weekCharacters": [
+		"milo",
+		"bf",
+		"gf"
+	],
+	"storyName": "Milo's Amazing Laboratory!",
+	"weekName": "Milo's Lab Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week9",
+	"startUnlocked": false
+}

@@ -1,0 +1,57 @@
+{
+	"songs": [
+		[
+			"Schoolhouse",
+			"isaiah",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Learning",
+			"isaiah",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Frustrated",
+			"isaiahmad",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Anger",
+			"isaiahangey",
+			[
+				0,
+				0,
+				75
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "schoolhouse",
+	"weekCharacters": [
+		"isaiah",
+		"bf",
+		"gf"
+	],
+	"storyName": "Welcome to my schoolhouse!",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

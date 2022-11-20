@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "mad",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "WHAT WAS THAT FOR????"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mad",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "GIVING OUT RANDOM BEEPETY BOPITY BOOPS IS NOT AN ANSWER!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Boop skebep."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You know what?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mad",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I WILL BEAT YOU IN THIS RAP BATTLE ONCE AND FOR ALL!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mad",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "AND YOU WILL NEVER SEE THE LIGHT OF DAY!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Boop skebeb poop bop."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You're gonna have to try a little harder than that!"
+		}
+	]
+}

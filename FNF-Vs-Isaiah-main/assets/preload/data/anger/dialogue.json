@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "angey",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "LOOK WHAT YOU'VE DONE To mE aND tHIs SchoOL!!!11!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Boop?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "angey",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You HaVE MadE mE ALL CorRUptED and gLItcHY!!! JUST LooK aT Me!!!!!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Boop ske bop pop bop."
+		},
+		{
+			"speed": 0.27,
+			"portrait": "angey",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "....."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "angey",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "YOU KNOW WHAT?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "angey",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I WILL SLAUGHTER YOU AND YOUR GIRLFRIEND WHEN I WIN THIS!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "angey",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "SCREW THIS! I HAD ENOUGH OF YOU TWO!!!!!"
+		},
+		{
+			"speed": 0.11,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "boop...."
+		}
+	]
+}
